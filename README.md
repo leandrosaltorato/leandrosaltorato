@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
 </div>
 <br>
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph-dark.svg">
   <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph.svg"> -->
