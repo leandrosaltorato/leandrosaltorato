@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://beacons.ai/leandrosaltorato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosaltorato&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosaltorato&show_icons=true&locale=en&theme=midnight-purple" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosaltorato&layout=compact&theme=midnight-purple">
 </div>
 <br>
