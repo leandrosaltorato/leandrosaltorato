@@ -1,15 +1,14 @@
 👋
+### Linguagens Utilizadas 
 <div align="center">
   <a href="https://beacons.ai/leandrosaltorato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosaltorato&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosaltorato&layout=compact&theme=midnight-purple">
 </div>
 
-### Linguagens Utilizadas  
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="ling" src="https://skillicons.dev/icons?i=js,html,css,c,)](https://skillicons.dev">
-  <!-- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
+  <img align="center" alt="ling" src="https://skillicons.dev/icons?i=js,html,css,c,(https://skillicons.dev)">
+
 </div>
 <br>
 ---
