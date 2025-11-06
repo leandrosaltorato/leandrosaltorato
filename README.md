@@ -22,7 +22,7 @@
 
 <br>
 
-![gifgithub]( https://github.com/user-attachments/assets/d41b8e81-f8ab-42be-b65e-588e610b8d69)
+![gifgithub](https://github.com/user-attachments/assets/d41b8e81-f8ab-42be-b65e-588e610b8d69)
 
 
 <!--![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)--!>
