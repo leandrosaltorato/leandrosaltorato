@@ -5,7 +5,7 @@
 <br>
 
 
-<div align="center">
+<div align="center"> 
   <a href="https://beacons.ai/leandrosaltorato">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosaltorato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&rank_icon=github" alt="stats graph"  /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosaltorato&show_icons=true&theme=midnight-purple&rank_icon=github">
