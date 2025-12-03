@@ -4,6 +4,7 @@
 </div>
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 <!-- <div align="center">
   <a href="https://beacons.ai/leandrosaltorato">
@@ -23,8 +24,6 @@
 </picture>
 
 <br>
-
-![gifgithub](https://github.com/user-attachments/assets/d41b8e81-f8ab-42be-b65e-588e610b8d69)
 
 
 <!--![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)--!>
