@@ -18,7 +18,8 @@
 
 <div align="center">
   <div>
-    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrosaltorato&theme=midnight-purple">
+    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrosaltorato&theme=gotham">
+    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrosaltorato&theme=gotham">
   </div>
 </div>
           
