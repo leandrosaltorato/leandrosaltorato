@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=121B96&section=header&reversal=true&textBg=false&fontColor=121B96&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=100%&color=121B96&section=header&reversal=true&textBg=false&fontColor=121B96&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 <div style="display: inline_block" align="center">
   <img alt="ling" src="https://skillicons.dev/icons?i=js,html,css,c,https://skillicons.dev">
 </div>
