@@ -16,6 +16,15 @@
   </a>
 </div> -->
 
+<div align="center">
+  <div>
+    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamthais&theme=dracula">
+  </div>
+</div>
+          
+
+          
+
 <br>
 <br>
 
@@ -27,7 +36,6 @@
 
 <br>
 
-
-<!--![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)--!>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=121B96&section=footer&reversal=true&textBg=false&fontColor=121B96&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn">
 
 
