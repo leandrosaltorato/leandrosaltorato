@@ -18,7 +18,7 @@
 
 <div align="center">
   <div>
-    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamthais&theme=dracula">
+    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrosaltorato&theme=midnight-purple">
   </div>
 </div>
           
