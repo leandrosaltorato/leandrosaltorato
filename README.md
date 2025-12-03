@@ -1,4 +1,4 @@
-<h1 align="center">Linguagens</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=129675&section=header&reversal=true&textBg=false&fontColor=129675&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 <div style="display: inline_block" align="center"><br>
   <img alt="ling" src="https://skillicons.dev/icons?i=js,html,css,c,https://skillicons.dev">
 </div>
