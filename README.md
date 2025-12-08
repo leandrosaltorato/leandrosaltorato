@@ -2,8 +2,7 @@
 <!-- <div style="display: inline_block" align="center">
   <img alt="ling" src="https://skillicons.dev/icons?i=js,html,css,c,https://skillicons.dev">
 </div> -->
-
-<div align="center># GitHub Stats</div>
+# GitHub Stats
 
 <div align="center">
   <div>
