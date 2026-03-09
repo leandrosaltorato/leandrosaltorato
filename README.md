@@ -1,27 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=95&color=30BF86&section=header&reversal=true&textBg=false&fontColor=30BF86&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn"/> 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=30BF86&section=header"/>
 
 
 <div align="center">
-  <div>
-    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrosaltorato&theme=gotham">
-    <img width="290" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrosaltorato&theme=gotham">
-    <img width="290" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrosaltorato&theme=gotham">
-  </div>
+
+<img width="700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrosaltorato&theme=gotham"/>
+
+<img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrosaltorato&theme=gotham"/>
+<img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrosaltorato&theme=gotham"/>
+
+</div>
+
+---
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph-dark.svg">
+<img src="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+# Coding with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,git,mysql,prisma,vscode"/>
+
 </div>
 
 
-
-
-
-
-<br>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph.svg">
-</picture>
-
-<br>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=30BF86&section=footer"/>
