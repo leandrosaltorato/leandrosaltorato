@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,git,mysql,prisma,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,git,mysql,prisma"/>
 
 </div>
 
