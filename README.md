@@ -21,7 +21,18 @@
 
 # Coding with
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,nodejs,git,flutter,html,css,mysql,prisma&perline=4)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,git,flutter" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,mysql,prisma" />
+  </a>
+</p>
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=30BF86&section=footer"/>
