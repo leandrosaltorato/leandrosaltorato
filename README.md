@@ -6,6 +6,10 @@
 <img width="700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrosaltorato&theme=gotham"/>
 
 <img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrosaltorato&theme=gotham"/>
+<img 
+  width="220" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosaltorato&layout=compact&theme=gotham&langs_count=20&hide_border=true" 
+/>
 <img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrosaltorato&theme=gotham"/>
 
 </div>
