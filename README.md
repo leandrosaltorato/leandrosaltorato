@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="550" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrosaltorato&theme=gotham"/>
+<img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrosaltorato&theme=gotham"/>
 
 <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrosaltorato&theme=gotham"/>
 
