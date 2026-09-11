@@ -34,7 +34,15 @@
   </a>
 </p>
 
-![Nome do GIF](https://media1.tenor.com/m/5OI0HjIg_90AAAAd/homem-chorando-m%C3%A3os-b%26w.gif)
+
+
+---
+
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/5OI0HjIg_90AAAAd/homem-chorando-m%C3%A3os-b%26w.gif" width="500" alt="Demonstração do projeto">
+</p>
+
 
 
 <p align="center">
