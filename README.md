@@ -34,6 +34,9 @@
   </a>
 </p>
 
+![Nome do GIF](https://media1.tenor.com/m/5OI0HjIg_90AAAAd/homem-chorando-m%C3%A3os-b%26w.gif)
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=30BF86&section=footer"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=30BF86&section=footer"/>
+</p>
